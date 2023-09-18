@@ -1,0 +1,52 @@
+.heading {
+  text-align: center;
+  color: whitesmoke;
+  background-color: red;
+  width: 100%;
+  font-size: 50px;
+  padding: 20px;
+}
+.card1,
+.card2,
+.card3,
+.card4,
+.card5,
+.card6 {
+  margin: 25px;
+  text-align: center;
+  font-size: 30px;
+  background-color: azure;
+}
+.card-heads1,
+.card-heads2,
+.card-heads3,
+.card-heads4,
+.card-heads5,
+.card-heads6 {
+  font-size: 20px;
+  background-color: skyblue;
+  font-size: larger;
+  padding: 5px;
+}
+.card-bodys1,
+.card-bodys2,
+.card-bodys3,
+.card-bodys4,
+.card-bodys5,
+.card-bodys6 {
+  font-size: 20px;
+  color: black;
+  padding: 5px;
+  padding-top: 8px;
+}
+
+.card-footers1,
+.card-footers2,
+.card-footers3,
+.card-footers4,
+.card-footers5,
+.card-footers6 {
+  background-color: skyblue;
+  font: size 30px;
+  padding: 5px;
+}
